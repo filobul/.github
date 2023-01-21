@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
+
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ Filobul, araç takip sistemleri alanında lider bir şirkettir. 
+🌈 Sistemlerimiz, aracınızın konumunu, hızını, yolculuk verilerini ve daha birçok bilgiyi gerçek zamanlı olarak izlemenizi sağlar.
+👩‍💻 Ayrıca, aracınızın nerede olduğunu ve ne yaptığını anlamak için haritalama özellikleri de sunarız. 
+🍿 Sistemlerimiz aynı zamanda aracınızın yolculuk verilerini analiz etmenizi ve aracınızın performansını optimize etmenizi sağlar. 
+🧙 Tüm bu özelliklerle birlikte, aracınızın güvenliğini de artırmaktadır. Filobul ile aracınızın her hareketini kontrol edin!
